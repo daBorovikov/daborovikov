@@ -1,65 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>教程 | Academic</title>
-    <link>https://example.com/category/%E6%95%99%E7%A8%8B/</link>
-      <atom:link href="https://example.com/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <title>教程 | daborovikov</title>
+    <link>https://daborovikov.github.io/category/%E6%95%99%E7%A8%8B/</link>
+      <atom:link href="https://daborovikov.github.io/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>教程</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://daborovikov.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>教程</title>
-      <link>https://example.com/category/%E6%95%99%E7%A8%8B/</link>
+      <link>https://daborovikov.github.io/category/%E6%95%99%E7%A8%8B/</link>
     </image>
     
     <item>
-      <title>Добро пожаловать ко мне на страничку. Сегодня я вам расскажу про версии язык разметки маркдаун.</title>
-      <link>https://example.com/post/theme/</link>
+      <title>Last Week A Look into the Past</title>
+      <link>https://daborovikov.github.io/post/weak_-_/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/theme/</guid>
+      <guid>https://daborovikov.github.io/post/weak_-_/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;meeting-an-old-friend&#34;&gt;Meeting an Old Friend&lt;/h2&gt;
+&lt;p&gt;Last week, I had a meeting with one of my old friends. We hadn&amp;rsquo;t seen each other for a long time, so it was truly a special event. We spent the whole evening in pleasant conversation, reminiscing about old times and exchanging news. It was wonderful to see him again and feel the same friendly atmosphere as before.&lt;/p&gt;
+&lt;h2 id=&#34;mountain-trip&#34;&gt;Mountain Trip&lt;/h2&gt;
+&lt;p&gt;Also, last week I went on a small trip to the mountains. I always enjoy the beautiful nature and fresh air there. This trip was no exception. I took long walks along mountain trails, enjoying the magnificent views and colorful landscapes. It was a true boost of energy and inspiration.&lt;/p&gt;
+&lt;h2 id=&#34;exciting-book-marathon&#34;&gt;Exciting Book Marathon&lt;/h2&gt;
+&lt;p&gt;During the past week, I also immersed myself in an exciting book marathon. I finally got to read several books that I had wanted to read for a long time. It was so nice to dive into the world of different stories and experience them along with the characters. Books always bring me joy and new knowledge, so this book marathon was a wonderful way to spend time.&lt;/p&gt;
+&lt;h2 id=&#34;work-and-achievements&#34;&gt;Work and Achievements&lt;/h2&gt;
+&lt;p&gt;Apart from enjoyable moments of relaxation, I also focused on my work. Last week turned out to be very productive, and I was pleased to achieve several significant milestones in my projects. Working on projects always requires effort, but when you see your accomplishments, it brings a sense of satisfaction and inspires further endeavors.
+Thank you for sharing these moments with me. The past week was eventful and memorable. I hope you also had interesting events and achievements. Tell me about them in the comments below!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last Week A Look into the Past</title>
+      <link>https://daborovikov.github.io/post/weak_/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://daborovikov.github.io/post/weak_/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;meeting-an-old-friend&#34;&gt;Meeting an Old Friend&lt;/h2&gt;
+&lt;p&gt;Last week, I had a meeting with one of my old friends. We hadn&amp;rsquo;t seen each other for a long time, so it was truly a special event. We spent the whole evening in pleasant conversation, reminiscing about old times and exchanging news. It was wonderful to see him again and feel the same friendly atmosphere as before.&lt;/p&gt;
+&lt;h2 id=&#34;mountain-trip&#34;&gt;Mountain Trip&lt;/h2&gt;
+&lt;p&gt;Also, last week I went on a small trip to the mountains. I always enjoy the beautiful nature and fresh air there. This trip was no exception. I took long walks along mountain trails, enjoying the magnificent views and colorful landscapes. It was a true boost of energy and inspiration.&lt;/p&gt;
+&lt;h2 id=&#34;exciting-book-marathon&#34;&gt;Exciting Book Marathon&lt;/h2&gt;
+&lt;p&gt;During the past week, I also immersed myself in an exciting book marathon. I finally got to read several books that I had wanted to read for a long time. It was so nice to dive into the world of different stories and experience them along with the characters. Books always bring me joy and new knowledge, so this book marathon was a wonderful way to spend time.&lt;/p&gt;
+&lt;h2 id=&#34;work-and-achievements&#34;&gt;Work and Achievements&lt;/h2&gt;
+&lt;p&gt;Apart from enjoyable moments of relaxation, I also focused on my work. Last week turned out to be very productive, and I was pleased to achieve several significant milestones in my projects. Working on projects always requires effort, but when you see your accomplishments, it brings a sense of satisfaction and inspires further endeavors.
+Thank you for sharing these moments with me. The past week was eventful and memorable. I hope you also had interesting events and achievements. Tell me about them in the comments below!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My second week I&#39;m tired. Thanks to all the devils that are interested in my work.</title>
+      <link>https://daborovikov.github.io/post/weak/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://daborovikov.github.io/post/weak/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
+&lt;p&gt;Gg vp. I have seen such a week in hell. All for now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my page. Today I will tell you about markdown language versions.</title>
+      <link>https://daborovikov.github.io/post/theme/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://daborovikov.github.io/post/theme/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;язык-разметки-маркдаун-а-марка-жалко-марк-хороший-был&#34;&gt;Язык разметки маркдаун. А марка жалко. Марк хороший был&lt;/h2&gt;
-&lt;p&gt;Markdown — это простой язык разметки, используемый для создания форматированного текста (например, HTML) с помощью текстового редактора. Он позволяет добавлять к тексту базовое форматирование, используя символы, известные и доступные на всех клавиатурах.&lt;/p&gt;
+&lt;p&gt;Markdown is a simple markup language used to create rich text (such as HTML) with a text editor. It allows you to add basic formatting to text using characters known and available on all keyboards.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя вторая неделя я устал. Спасибо всем чертям, что интересуются моим творчеством.</title>
-      <link>https://example.com/post/weak/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weak/</guid>
+      <title>Working with the bibliography How to manage your sources</title>
+      <link>https://daborovikov.github.io/post/bibl/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://daborovikov.github.io/post/bibl/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;1-use-bibliography-managers&#34;&gt;1. Use Bibliography Managers&lt;/h2&gt;
+&lt;p&gt;One of the most effective ways to manage bibliography is to use specialized bibliography managers such as Zotero, Mendeley or EndNote. These tools allow you to organize and store all your sources in one place, add annotations and tags, and generate bibliography in a variety of formats. They integrate with your text editors, making it easy to insert citations and create bibliographic references.&lt;/p&gt;
+&lt;h2 id=&#34;2-create-annotations-and-notes&#34;&gt;2. Create annotations and notes&lt;/h2&gt;
+&lt;p&gt;In addition to simply storing sources, it is also important to create annotations and notes for each of them. This will help you better organize your thoughts and quickly find the information you need when working on a project or writing an article. Some bibliography managers offer built-in annotation and note-taking tools, but you can also use regular text editors or note-taking applications.&lt;/p&gt;
+&lt;h2 id=&#34;3-check-formatting&#34;&gt;3. Check Formatting&lt;/h2&gt;
+&lt;p&gt;When writing academic papers or scientific articles, it is important to follow certain standards for formatting bibliographic references. Bibliography managers usually provide a choice of different citation styles, such as APA, MLA, Chicago, and others. Before submitting your work, make sure that all links are formatted correctly and comply with the requirements of the chosen style.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my page. Today I will tell you about git versions.</title>
+      <link>https://daborovikov.github.io/post/git/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://daborovikov.github.io/post/git/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;git---version-control-system&#34;&gt;GIT - version control system&lt;/h2&gt;
+&lt;p&gt;GIT is a distributed version control system created by Linus Torvalds to manage the development of the Linux kernel and is currently very widespread among software developers.&lt;/p&gt;
+&lt;p&gt;A Version Control System (VCS) is software that makes it easier to work with changing information. The version control system allows you to store multiple versions of the same document, revert to earlier versions if necessary, determine who made a change and when, and much more. Such systems are most widely used in software development to store the source codes of the program being developed.&lt;/p&gt;
+&lt;p&gt;GIT is one such system. GIT uses a distributed model instead of the traditional client-server model. Thus, GIT repositories do not need a centralized repository: the entire history of changes to documents is stored on each computer, in local storage, and, if necessary, individual fragments of the local storage history are synchronized with the same storage on another computer.&lt;/p&gt;
+&lt;p&gt;Today, GIT has become the standard version control system for so many developers, and GitHub source code hosting is the largest such service. Examples of projects using Git are the Linux kernel, Android, Ruby on Rails, Drupal, Wine, Chromium, Compiz Fusion, jQuery, PHP, MediaWiki, and some Linux distributions&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my page. Today I will tell you about my week</title>
+      <link>https://daborovikov.github.io/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://daborovikov.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
-&lt;p&gt;Гг вп. В аду видел такую неделю. Всем пока.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Добро пожаловать ко мне на страничку. Сегодня я вам расскажу про версии git.</title>
-      <link>https://example.com/post/git/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/git/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;git--система-управления-версиями&#34;&gt;GIT — система управления версиями&lt;/h2&gt;
-&lt;p&gt;GIT — распределённая система управления версиями, созданная Линусом Торвальдсом для управления разработкой ядра Linux и в настоящее время получившая очень широкое распространение в среде разработчиков программного обеспечения.&lt;/p&gt;
-&lt;p&gt;Система управления версиями (Version Control System, VCS) — это программное обеспечение для облегчения работы с изменяющейся информацией. Система управления версиями позволяет хранить несколько версий одного и того же документа, при необходимости возвращаться к более ранним версиям, определять, кто и когда сделал то или иное изменение, и многое другое. Такие системы наиболее широко используются при разработке программного обеспечения для хранения исходных кодов разрабатываемой программы.&lt;/p&gt;
-&lt;p&gt;GIT — это одна из таких систем. В GIT используется распределённая модель вместо традиционной клиент-серверной. Таким образом, репозитории GIT не нуждаются в централизованном хранилище: вся история изменения документов хранится на каждом компьютере, в локальном хранилище, и при необходимости отдельные фрагменты истории локального хранилища синхронизируются с аналогичным хранилищем на другом компьютере.&lt;/p&gt;
-&lt;p&gt;На сегодняшний день, GIT стал стандартной системой управления версиями для очень многих разработчиков, а хостинг исходных кодов GitHub — самым крупным подобным сервисом. Примерами проектов, использующих Git, являются ядро Linux, Android, Ruby on Rails, Drupal, Wine, Chromium, Compiz Fusion, jQuery, PHP, MediaWiki и некоторые дистрибутивы Linux&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Добро пожаловать ко мне на страничку. Сегодня я вам расскажу про свою неделю</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;моя-неделя&#34;&gt;Моя неделя&lt;/h2&gt;
-&lt;p&gt;Неделя была веселой. Я как обычно старался сдавать дз, играл в компьютерные игры, по вечерам плакал в подушку. Спасибо за внимание.&lt;/p&gt;
+&lt;p&gt;The week was fun. As usual, I tried to pass dz, played computer games, and cried into my pillow in the evenings. Thank you for your attention.&lt;/p&gt;
 </description>
     </item>
     
